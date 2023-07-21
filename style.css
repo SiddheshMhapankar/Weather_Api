@@ -1,9 +1,18 @@
+body{
+    background-color: #36454F;
+}
 #city-input, #weather-output {
     max-width: 400px;
     margin: 0 auto;
 }
-  
+#main-card{
+    color: white;
+    width: 400px;
+}
 .banner {
     color: #FFD23F;
     font-family: sans-serif;
+}
+#city-name-box{
+    background-color: #FFD23F;
 }
